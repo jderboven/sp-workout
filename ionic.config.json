@@ -1,0 +1,8 @@
+{
+  "name": "sp-workout",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
